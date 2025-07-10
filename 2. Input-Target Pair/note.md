@@ -32,6 +32,8 @@ Implement a data loader that fetches `input-output target pairs` using a `slidin
     - utilizee data set fully (not skipping over any words)
     - avoid any overlap between the batches; more overlap = increased overfitting
 
+*usually set `stride to context length`*
+
 ### Batch Size
 number of data that will be processed before updating parameters
 
