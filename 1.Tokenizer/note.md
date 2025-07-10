@@ -145,3 +145,4 @@ Practical Example
     - This list of 11 tokens will serve as our vocabulary
 
 - **Stopping criteria can either be the token count or the numbere of iterations**
+
